@@ -1,4 +1,4 @@
-# Agentic Engineering: Greenfield — домашнє завдання
+# Agentic Engineering: Greenfield — домашнє завдання 
 
 Курс **fwdays Academy · Agentic Engineering: Greenfield**.
 
